@@ -13,5 +13,5 @@
 </a>
 
 <a href="https://www.instagram.com/muhammmadhasssan/" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="26px" src="https://www.iconfinder.com/icons/6929237/instagram_icon" />
+  <img align="left" width="26px" src="./insta.png" />
 </a>
